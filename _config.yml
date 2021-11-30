@@ -24,8 +24,8 @@ description: Personal Website
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  Publications: "publications"
   Research: "research"
+  Publications: "publications"
   Teaching: "Teaching"
   CV: "CV"
 
