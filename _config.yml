@@ -25,7 +25,7 @@ description: Personal Website
 navbar-links:
   Home: ""
   Publications: "publications"
-  Talks: "Projects"
+  Projects: "projects"
   Teaching: "Teaching"
   CV: "CV"
 
