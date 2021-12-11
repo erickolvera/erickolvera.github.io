@@ -2,7 +2,7 @@
 layout: page
 title: Erick Olvera-Prado
 subtitle: Postdoctoral researcher
-subtitle: [Instituto de Ciencias de la Atmósfera y Cambio Climático, UNAM](https://www.atmosfera.unam.mx/), 
+subtitle: Instituto de Ciencias de la Atmósfera y Cambio Climático, UNAM 
 use-site-title: true
 ---
 
