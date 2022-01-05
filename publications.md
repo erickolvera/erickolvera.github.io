@@ -13,7 +13,7 @@ title: Publications
 
 **Submitted**
 
-- Upper-lower layer coupling of recurrent circulation patterns in the Gulf of Mexico.  
+- Upper-lower layer coupling of recurrent circulation patterns in the Gulf of Mexico
   **Erick Olvera-Prado**, Efrain Moreles-Vazquez , Rosario Romero-Centeno, Jorge Zavala-Hidalgo 
   *Journal of Physical Oceanography  
   [Preprint](https://www.essoar.org/doi/10.1002/essoar.10509625.1){: .btn}
@@ -22,9 +22,9 @@ title: Publications
 
 **Peer Reviewed**
 
-- Seasonal variations of river and tidal flow interactions in a tropical estuarine system 
+- Seasonal variations of river and tidal flow interactions in a tropical estuarine system
   Leonardo Tenorio-Fernandez, Jorge Zavala-Hidalgo, **Erick Olvera-Prado**   
-  *Continental Shelf Research*  
+  *Continental Shelf Research (2019)*  
   [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0278434319303486?via%3Dihub){: .btn}
  
 
