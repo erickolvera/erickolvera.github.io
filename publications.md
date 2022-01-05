@@ -15,7 +15,6 @@ title: Publications
 
 - Upper-lower layer coupling of recurrent circulation patterns in the Gulf of Mexico
   **Erick Olvera-Prado**, Efrain Moreles-Vazquez, Jorge Zavala-Hidalgo & Rosario Romero-Centeno 
-  
   *Journal of Physical Oceanography*  
   [Preprint](https://www.essoar.org/doi/10.1002/essoar.10509625.1){: .btn}
   [Code](https://github.com/erickolvera/Olvera_et_al_21){: .btn}
@@ -28,5 +27,9 @@ title: Publications
   *Continental Shelf Research (2019)*  
   [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0278434319303486?via%3Dihub){: .btn}
  
-
+**PhD Thesis**
+- [Contribution of the wind and Loop Current Eddies to the circulation in the Western Gulf of Mexico]()
+  **Erick Olvera-Prado**
+  Florida State University
+  
 
