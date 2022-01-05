@@ -5,28 +5,22 @@ title: Publications
 
 **In preparation**
 
-- **Continuous streaming multi-talker ASR with dual-path transducers**  
-  **Desh Raj**, Liang Lu, Zhuo Chen, Yashesh Gaur, Jinyu Li  
-  *Submitted to ICASSP 2022*  
-  [Paper](https://arxiv.org/abs/2109.08555){: .btn}
-  [Slides](/static/ppt/intern_multi_surt.pdf){: .btn}
+- Contribution of the wind and Loop Current Eddies to the circulation in the Bay of Campeche  
+  **Erick Olvera-Prado**, Rosario Romero-Centeno, Jorge Zavala-Hidalgo, Efrain Moreles-Vazquez, Angel Ruiz-Angulo
 
-- **Injecting text and cross-lingual supervision in few-shot learning from self-supervised models**  
-  Matthew Wiesner, **Desh Raj**, Sanjeev Khudanpur  
-  *Submitted to ICASSP 2022*  
-  [Paper](https://arxiv.org/abs/2110.04863){: .btn}
-  [Code](https://github.com/m-wiesner/nnet_pytorch/tree/conda_install/babel){: .btn}
+- Contribution of the wind and Loop Current Eddies to the circulation in the Western Gulf of Mexico.  
+  **Erick Olvera-Prado**, Eric P. Chassignet, Steve L. Morey, Dmitry Dukhovskoy, Alexandra Bozec
 
 **Submitted**
 
-- **Reformulating DOVER-Lap label mapping as a graph partitioning problem**  
-  **Desh Raj**, Sanjeev Khudanpur  
-  *INTERSPEECH 2021*  
-  [Paper](https://www.isca-speech.org/archive/interspeech_2021/raj21b_interspeech.html){: .btn}
-  [Code](https://github.com/desh2608/dover-lap){: .btn}
-  [Report](/static/report/doverlap.pdf){: .btn}
-  [Slides](/static/ppt/interspeech21_doverlap.pdf){: .btn}
-  [Video](/static/video/interspeech21_doverlap_full.mp4){: .btn}
+- Upper-lower layer coupling of recurrent circulation patterns in the Gulf of Mexico.  
+  **Erick Olvera-Prado**, Efrain Moreles-Vazquez , Rosario Romero-Centeno, Jorge Zavala-Hidalgo 
+  *Journal of Physical Oceanography  
+  [Preprint](https://www.essoar.org/doi/10.1002/essoar.10509625.1){: .btn}
+  [Code](https://github.com/erickolvera/Olvera_et_al_21){: .btn}
+  [Data](https://zenodo.org/record/5605092#.YdXd-9tMF8s){: .btn}
+  [//]: # ([Slides](/static/ppt/interspeech21_doverlap.pdf){: .btn})
+  [//]: # ([Video](/static/video/interspeech21_doverlap_full.mp4){: .btn})
 
 **Peer Reviewed**
 
