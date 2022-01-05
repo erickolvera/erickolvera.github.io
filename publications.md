@@ -30,6 +30,6 @@ title: Publications
 **PhD Thesis**
 - [Contribution of the wind and Loop Current Eddies to the circulation in the Western Gulf of Mexico](https://erickolvera.github.io/static/files/Erick_Olvera_Dissertation.pdf)
   **Erick Olvera-Prado**
-  Florida State University
+  Florida State University 
   
 
