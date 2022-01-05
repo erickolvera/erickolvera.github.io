@@ -24,17 +24,10 @@ title: Publications
 
 **Peer Reviewed**
 
-- **Frustratingly easy noise-aware training of acoustic models**  
-    **Desh Raj**, Jesus Villalba, Daniel Povey, Sanjeev Khudanpur  
-    *ArXiv, 2020*  
-    [Paper](https://arxiv.org/abs/2011.02090){: .btn}
-  [Code](https://github.com/desh2608/kaldi-noise-vectors){: .btn}
-
-- **The JHU multi-microphone multi-speaker ASR system for the CHiME-6 challenge**  
-    Ashish Arora\*, **Desh Raj**\*, Aswin Shanmugam Subramanian\*, Ke Li\*, Bar Benyair, Matthew Maciejewski, Piotr Zelasko, Paola Garcia, Shinji Watanabe, Sanjeev Khudanpur.  
-    *The 6th CHiME Workshop (at ICASSP 2020)*.  
-    [Paper](https://arxiv.org/abs/2006.07898){: .btn}
-    [Video](https://www.youtube.com/watch?v=BLK8YFNk7is&feature=youtu.be){: .btn}
-    [Slides](https://chimechallenge.github.io/chime2020-workshop/presentations/CHiME_2020_slides_arora.pdf){: .btn}
+- Seasonal variations of river and tidal flow interactions in a tropical estuarine system 
+  Leonardo Tenorio-Fernandez, Jorge Zavala-Hidalgo, **Erick Olvera-Prado**   
+  *Continental Shelf Research*  
+  [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0278434319303486?via%3Dihub){: .btn}
+ 
 
 
