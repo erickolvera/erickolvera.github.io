@@ -19,8 +19,6 @@ title: Publications
   [Preprint](https://www.essoar.org/doi/10.1002/essoar.10509625.1){: .btn}
   [Code](https://github.com/erickolvera/Olvera_et_al_21){: .btn}
   [Data](https://zenodo.org/record/5605092#.YdXd-9tMF8s){: .btn}
-  [//]: # ([Slides](/static/ppt/interspeech21_doverlap.pdf){: .btn})
-  [//]: # ([Video](/static/video/interspeech21_doverlap_full.mp4){: .btn})
 
 **Peer Reviewed**
 
