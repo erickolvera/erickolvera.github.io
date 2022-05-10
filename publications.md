@@ -10,7 +10,7 @@ title: Publications
 
 **Submitted**
 
-- Contribution of the wind and Loop Current Eddies to the circulation in the Bay of Campeche  
+- Contribution of the wind and Loop Current Eddies to the circulation in the southern Gulf of Mexico  
   **Erick Olvera-Prado**, Rosario Romero-Centeno, Jorge Zavala-Hidalgo, Efrain Moreles-Vazquez & Angel Ruiz-Angulo
   *Submitted to Ocean Dynamics*
   
