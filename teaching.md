@@ -5,7 +5,7 @@ title: Teaching
 
 - **Taller de Modelación Numérica (Numerical modeling)**
 
-  Semesters 2020-1, 2020-2 and 2021-2 Facultad de Ciencias, UNAM
+  Semesters 2020-1, 2020-2, 2021-2 and 2022-2 Facultad de Ciencias, UNAM
   
   
 - **Oceanografía Dinámica 1 (Dynamic Oceanography)**
