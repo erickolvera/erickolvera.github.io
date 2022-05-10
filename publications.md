@@ -5,17 +5,18 @@ title: Publications
 
 **In preparation**
 
-- Contribution of the wind and Loop Current Eddies to the circulation in the Bay of Campeche  
-  **Erick Olvera-Prado**, Rosario Romero-Centeno, Jorge Zavala-Hidalgo, Efrain Moreles-Vazquez & Angel Ruiz-Angulo
-
 - Contribution of the wind and Loop Current Eddies to the circulation in the Western Gulf of Mexico.  
   **Erick Olvera-Prado**, Eric P. Chassignet, Steve L. Morey, Dmitry Dukhovskoy & Alexandra Bozec
 
 **Submitted**
 
+- Contribution of the wind and Loop Current Eddies to the circulation in the Bay of Campeche  
+  **Erick Olvera-Prado**, Rosario Romero-Centeno, Jorge Zavala-Hidalgo, Efrain Moreles-Vazquez & Angel Ruiz-Angulo
+  *Submitted to Ocean Dynamics*
+  
 - Upper-lower layer coupling of recurrent circulation patterns in the Gulf of Mexico
   **Erick Olvera-Prado**, Efrain Moreles-Vazquez, Jorge Zavala-Hidalgo & Rosario Romero-Centeno
-  *Journal of Physical Oceanography*  
+  *Submitted Journal of Physical Oceanography*  
   [Preprint](https://www.essoar.org/doi/10.1002/essoar.10509625.1){: .btn}
   [Code](https://github.com/erickolvera/Olvera_et_al_21){: .btn}
   [Data](https://zenodo.org/record/5605092#.YdXd-9tMF8s){: .btn}
