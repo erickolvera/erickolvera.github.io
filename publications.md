@@ -6,7 +6,7 @@ title: Publications
 **In preparation**
 
 - The vorticity balance of the upper layer in the western Gulf of Mexico.  
-  **Erick Olvera-Prado**, Eric P. Chassignet, Steve L. Morey, Dmitry Dukhovskoy, Alexandra Bozec & Jorge Zavala-Hidalgo
+  **Erick Olvera-Prado**, Eric P. Chassignet, Steve L. Morey, Alexandra Bozec & Jorge Zavala-Hidalgo
   
 - Stratification variability in the Yucatan Channel and its relationship with the Loop Current System.
   Susana Higuera-Parra, Efrain Moreles-Vazquez, **Erick Olvera-Prado** & Jorge Zavala-Hidalgo
