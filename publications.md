@@ -5,10 +5,13 @@ title: Publications
 
 **In preparation**
 
-- Contribution of the wind and Loop Current Eddies to the circulation in the Western Gulf of Mexico.  
-  **Erick Olvera-Prado**, Eric P. Chassignet, Steve L. Morey, Dmitry Dukhovskoy & Alexandra Bozec
+- The vorticity balance of the upper layer in the Western Gulf of Mexico.  
+  **Erick Olvera-Prado**, Eric P. Chassignet, Steve L. Morey, Dmitry Dukhovskoy, Alexandra Bozec & Jorge Zavala-Hidalgo
+  
+- Stratification variability in the Yucatan Channel and its relationship with the Loop Current System
+  Susana Higuera-Parra, Efrain Moreles-Vazquez, **Erick Olvera-Prado** & Jorge Zavala-Hidalgo
 
-**Submitted**
+**Under Review**
 
 - Contribution of the wind and Loop Current Eddies to the circulation in the southern Gulf of Mexico  
   **Erick Olvera-Prado**, Rosario Romero-Centeno, Jorge Zavala-Hidalgo, Efrain Moreles-Vazquez & Angel Ruiz-Angulo.
