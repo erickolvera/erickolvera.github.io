@@ -8,16 +8,16 @@ title: Publications
 - *The vorticity balance of the upper layer in the western Gulf of Mexico.*  
   **Erick Olvera-Prado**, Eric P. Chassignet, Steve L. Morey, Alexandra Bozec & Jorge Zavala-Hidalgo
   
-- Stratification variability in the Yucatan Channel and its relationship with the Loop Current System.
+- *Stratification variability in the Yucatan Channel and its relationship with the Loop Current System.*
   Susana Higuera-Parra, Efrain Moreles-Vazquez, **Erick Olvera-Prado** & Jorge Zavala-Hidalgo
 
 **Under Review**
 
-- Contribution of the wind and Loop Current Eddies to the circulation in the southern Gulf of Mexico  
+- *Contribution of the wind and Loop Current Eddies to the circulation in the southern Gulf of Mexico.*  
   **Erick Olvera-Prado**, Rosario Romero-Centeno, Jorge Zavala-Hidalgo, Efrain Moreles-Vazquez & Angel Ruiz-Angulo.
   *Under review in Ocean Dynamics*
   
-- Upper-lower layer coupling of recurrent circulation patterns in the Gulf of Mexico
+- *Upper-lower layer coupling of recurrent circulation patterns in the Gulf of Mexico.* 
   **Erick Olvera-Prado**, Efrain Moreles-Vazquez, Jorge Zavala-Hidalgo & Rosario Romero-Centeno.
   *Under review in Journal of Physical Oceanography*  
   [Preprint](https://www.essoar.org/doi/10.1002/essoar.10509625.1){: .btn}
@@ -26,7 +26,7 @@ title: Publications
 
 **Peer Reviewed**
 
-- Seasonal variations of river and tidal flow interactions in a tropical estuarine system
+- *Seasonal variations of river and tidal flow interactions in a tropical estuarine system.*
   Leonardo Tenorio-Fernandez, Jorge Zavala-Hidalgo & **Erick Olvera-Prado**   
   *Continental Shelf Research (2019)*  
   [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0278434319303486?via%3Dihub){: .btn}
