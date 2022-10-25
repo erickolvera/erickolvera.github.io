@@ -17,16 +17,16 @@ title: Publications
 - *Stratification variability in the Yucatan Channel and its relationship with the Loop Current System.*  
   Susana Higuera-Parra, Efrain Moreles-Vazquez, **Erick R. Olvera-Prado** & Jorge Zavala-Hidalgo.
   *Under review in Frontiers of Marine Science (2022)*
-  
-- *Upper-lower layer coupling of recurrent circulation patterns in the Gulf of Mexico.*  
-  **Erick R. Olvera-Prado**, Efrain Moreles-Vazquez, Jorge Zavala-Hidalgo & Rosario Romero-Centeno.
-  *Under review in Journal of Physical Oceanography (2022)*  
-  [Preprint](https://www.essoar.org/doi/10.1002/essoar.10509625.1){: .btn}
-  [Code](https://github.com/erickolvera/Olvera_et_al_21){: .btn}
-  [Data](https://zenodo.org/record/5605092#.YdXd-9tMF8s){: .btn}
 
 **Peer Reviewed**
 
+- *Upper-lower layer coupling of recurrent circulation patterns in the Gulf of Mexico.*  
+  **Erick R. Olvera-Prado**, Efrain Moreles-Vazquez, Jorge Zavala-Hidalgo & Rosario Romero-Centeno.
+  *Journal of Physical Oceanography (2022)*  
+  [Preprint](https://www.essoar.org/doi/10.1002/essoar.10509625.1){: .btn}
+  [Code](https://github.com/erickolvera/Olvera_et_al_21){: .btn}
+  [Data](https://zenodo.org/record/5605092#.YdXd-9tMF8s){: .btn}
+  
 - *Seasonal variations of river and tidal flow interactions in a tropical estuarine system.*  
   Leonardo Tenorio-Fernandez, Jorge Zavala-Hidalgo & **Erick R. Olvera-Prado**   
   *Continental Shelf Research (2019)*  
