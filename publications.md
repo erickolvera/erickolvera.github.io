@@ -23,7 +23,7 @@ title: Publications
 - *Upper-lower layer coupling of recurrent circulation patterns in the Gulf of Mexico.*  
   **Erick R. Olvera-Prado**, Efrain Moreles-Vazquez, Jorge Zavala-Hidalgo & Rosario Romero-Centeno.
   *Journal of Physical Oceanography (2022)*  
-  [Preprint](https://www.essoar.org/doi/10.1002/essoar.10509625.1){: .btn}
+  [Paper](https://journals.ametsoc.org/view/journals/phoc/aop/JPO-D-21-0281.1/JPO-D-21-0281.1.xml){: .btn}
   [Code](https://github.com/erickolvera/Olvera_et_al_21){: .btn}
   [Data](https://zenodo.org/record/5605092#.YdXd-9tMF8s){: .btn}
   
