@@ -7,7 +7,7 @@ title: Publications
   
 **Under Review**
 
-- *Contribution of the wind and Loop Current Eddies to the circulation in the southern Gulf of Mexico.*  
+- *Contribution of the wind, Loop Current Eddies and topography to the circulation in the southern Gulf of Mexico.*  
   **Erick R. Olvera-Prado**, Rosario Romero-Centeno, Jorge Zavala-Hidalgo, Efrain Moreles-Vazquez & Angel Ruiz-Angulo.
   *Under review in Ocean Dynamics (2023)*  
    [Preprint](https://www.authorea.com/users/555486/articles/613100-contribution-of-the-wind-and-loop-current-eddies-to-the-circulation-in-the-southern-gulf-of-mexico){: .btn}
