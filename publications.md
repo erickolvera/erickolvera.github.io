@@ -12,15 +12,16 @@ title: Publications
   *Under review in Ocean Dynamics (2023)*  
    [Preprint](https://www.authorea.com/users/555486/articles/613100-contribution-of-the-wind-and-loop-current-eddies-to-the-circulation-in-the-southern-gulf-of-mexico){: .btn}
   
-- *Stratification variability in the Yucatan Channel and its relationship with the Loop Current System.*  
-  Susana Higuera-Parra, Efrain Moreles-Vazquez, **Erick R. Olvera-Prado** & Jorge Zavala-Hidalgo.
-  *Under review in Frontiers of Marine Science (2023)*
-  
 - *Contribution of the wind and Loop Current Eddies to the circulation in the western Gulf of Mexico.*  
   **Erick R. Olvera-Prado**, Steve L. Morey &  Eric P. Chassignet.
    *Under review in Frontiers of Marine Science (2023)*
 
 **Peer Reviewed**
+
+- *Stratification variability in the Yucatan Channel and its relationship with the Loop Current System.*  
+  Susana Higuera-Parra, Efrain Moreles-Vazquez, **Erick R. Olvera-Prado** & Jorge Zavala-Hidalgo.
+  *Frontiers of Marine Science (2023)*
+  [Paper](https://www.frontiersin.org/articles/10.3389/fmars.2023.1049662/full){: .btn}
 
 - *Upper-lower layer coupling of recurrent circulation patterns in the Gulf of Mexico.*  
   **Erick R. Olvera-Prado**, Efrain Moreles-Vazquez, Jorge Zavala-Hidalgo & Rosario Romero-Centeno.
