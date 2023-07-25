@@ -20,7 +20,7 @@ title: Publications
 
 - *Stratification variability in the Yucatan Channel and its relationship with the Loop Current System.*  
   Susana Higuera-Parra, Efrain Moreles-Vazquez, **Erick R. Olvera-Prado** & Jorge Zavala-Hidalgo.
-  *Frontiers of Marine Science (2023)*
+  *Frontiers of Marine Science (2023)*  
   [Paper](https://www.frontiersin.org/articles/10.3389/fmars.2023.1049662/full){: .btn}
 
 - *Upper-lower layer coupling of recurrent circulation patterns in the Gulf of Mexico.*  
