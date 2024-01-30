@@ -3,9 +3,9 @@ layout: page
 title: Publications
 ---
 
-**In preparation**
+#**In preparation**
   
-**Under Review**
+#**Under Review**
 
 **Peer Reviewed**
 
