@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Erick Olvera-Prado
-subtitle: Physical Oceanographer
+subtitle: Physical Oceanographer and Numerical Modeler
 use-site-title: true
 ---
 ![](/static/video/temp_ushad_mxlyr_anim.gif)
