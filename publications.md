@@ -6,12 +6,12 @@ title: Publications
 **In preparation**
   
 **Under Review**
-  
-- *Contribution of the wind and Loop Current Eddies to the circulation in the western Gulf of Mexico.*  
-  **Erick R. Olvera-Prado**, Steve L. Morey &  Eric P. Chassignet.
-   *Under review in Frontiers of Marine Science (2023)*
 
 **Peer Reviewed**
+
+- *Contribution of the wind and Loop Current Eddies to the circulation in the western Gulf of Mexico.*  
+  **Erick R. Olvera-Prado**, Steve L. Morey &  Eric P. Chassignet.
+   *Accepted in Frontiers of Marine Science (2024)*
 
 - *Contribution of the wind, Loop Current Eddies and topography to the circulation in the southern Gulf of Mexico.*  
   **Erick R. Olvera-Prado**, Rosario Romero-Centeno, Jorge Zavala-Hidalgo, Efrain Moreles-Vazquez & Angel Ruiz-Angulo.
