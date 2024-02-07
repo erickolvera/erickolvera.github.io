@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Erick Olvera-Prado
+title: Erick R. Olvera-Prado
 subtitle: Physical Oceanographer and Numerical Modeler
 use-site-title: true
 ---
